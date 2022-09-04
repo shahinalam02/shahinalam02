@@ -1,10 +1,10 @@
 ### Hi there 👋, my name is Shahin Alam
-I’m currently learning Web Development. 
+I’m currently learning Flutter Development. 
 
 Skills: JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Web Development 
+- 🌱 I’m currently learning Flutter Development 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shahinalam02)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/shahinalam02)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](@shahinalam02)  
