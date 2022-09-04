@@ -1,7 +1,6 @@
 ### Hi there 👋, my name is Shahin Alam
 I’m currently learning Flutter Development. 
 
-Skills: JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Flutter Development 
